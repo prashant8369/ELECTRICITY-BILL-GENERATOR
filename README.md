@@ -1,4 +1,4 @@
-# E
+
 Electricity Bill Generator
 This is a simple GUI application built with Python and tkinter that generates an electricity bill based on the units consumed by the user. The user can input their name, number of units consumed, and select additional features such as night-time usage and payment mode (online or offline). The application then calculates the electricity bill amount and displays it to the user.
 
